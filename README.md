@@ -1,5 +1,14 @@
+# To use:
+- run the program
+- say `hey GLaDOS` and function
+
+# Current Function:
+- say `time` will tell time
+- say `date` will tell date
+- say `play  (video)` will play YouTube video from the first searching
+
 # To Use:
-**Execute these line in terminal:**
+**Execute these lines in the terminal:**
 
 ```
 pip install SpeechRecognition
@@ -16,5 +25,5 @@ pip install pywhatkit
 pip install pygame
 
 ```
-If failed to install, run as adminstrator may help.
+If it fails to install, run as administrator may help.
 
