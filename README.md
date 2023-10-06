@@ -9,6 +9,7 @@
 
 # Install:
 **1. Download files**
+
 **2. Execute these lines in the terminal:**
 
 ```
@@ -27,5 +28,6 @@ pip install pygame
 
 ```
 If it fails to install, run as administrator may help.
+
 **3. Run `main` file**
 
