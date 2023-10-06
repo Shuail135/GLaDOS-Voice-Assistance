@@ -1,6 +1,6 @@
 # To use:
 - run the program
-- say `hey GLaDOS` and function
+- say `hey GLaDOS (function)`
 
 # Current Function:
 - say `time` will tell time
