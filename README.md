@@ -7,8 +7,9 @@
 - say `date` will tell date
 - say `play  (video)` will play YouTube video from the first searching
 
-# To Use:
-**Execute these lines in the terminal:**
+# Install:
+**1. Download files**
+**2. Execute these lines in the terminal:**
 
 ```
 pip install SpeechRecognition
@@ -26,4 +27,5 @@ pip install pygame
 
 ```
 If it fails to install, run as administrator may help.
+**3. Run `main` file**
 
