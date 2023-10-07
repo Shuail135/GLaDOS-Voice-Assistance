@@ -1,5 +1,5 @@
 # To use:
-- run the program
+- run the `main.py` program
 - say `hey GLaDOS (function)`
 
 # Current Function:
@@ -29,5 +29,4 @@ pip install pygame
 ```
 If it fails to install, run as administrator may help.
 
-**3. Run `main` file**
 
