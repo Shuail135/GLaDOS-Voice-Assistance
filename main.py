@@ -107,7 +107,7 @@ def run_glados():
             # GLaDOS voice "I don't get what are you talking coz I am a potato!!"
             sound = pygame.mixer.Sound("GLaDOS VoiceWAV/I don't get what are you talking cause I am a potato!.wav")
             sound.play()
-            time.sleep(1.2)
+            time.sleep(4)
             print("I don't get what are you talking cause I am a potato!!")
     else:
         run_glados()
