@@ -30,7 +30,6 @@ def run_glados():
     if "hey glados" in command or "a glados" in command or "hey gladys" in command or "a gladys" in command or \
             "hey glad those" in command or "a glad those" in command:
 
-        '''
         if "hey" in command:
             index = command.find("hey")
             command = command[index:]
@@ -49,7 +48,7 @@ def run_glados():
                 command = command.replace("a gladys ", "")
             elif "glad those" in command:
                 command = command.replace("a glad those ", "")
-        '''
+
 
         if "play" in command:
             print("playing")
