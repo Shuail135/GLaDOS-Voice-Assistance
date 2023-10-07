@@ -27,6 +27,11 @@ pip install pywhatkit
 pip install pygame
 
 ```
+
+```
+pip install PyAudio
+```
+
 If it fails to install, run as administrator may help.
 
 
